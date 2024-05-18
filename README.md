@@ -3,6 +3,8 @@
 This repositry contains the code ant resources for the project titled "Traffic Congestion Analysis Using Machine Learning." The project aims to leverage machine learning techniques to predict and manage traffic congestion effectively.
 
 ### Introduction
+![image](https://github.com/ih9511/korean-highway-traffic-congestion-factor-analysis/assets/46120405/e68dce01-911c-42ad-9b48-e3807ec4565e)
+
 The primary goal of this project is to explore the application of machine learning algorithms in analyzing and predicting traffic congestion. By utilizing a combination of supervised (Random Forest Model) and unsupervised (SMOTE) learning methods, the project aims to improve traffic flow management systems.
 
 ### Data Preprocessing
